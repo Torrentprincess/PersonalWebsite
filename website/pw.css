@@ -2,8 +2,10 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: deeppink;
+	background-color: #CC3366;
 	text-align: center;
+	color: purple
+	
 }
 
 a {
