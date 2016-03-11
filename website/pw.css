@@ -2,7 +2,6 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: #CC3366;
 	text-align: center;
 	color: purple
 	
@@ -10,9 +9,15 @@ ul {
 
 a {
 	text-decoration: none;
-	color: white;
+	color: #FFFFFF;
+	
 }
 
-a:hover {
-	color: white;
+
+
+	.navbar a {
+    color: #FFFFFF;
+}
+.navbar {
+	background-color: #d82356;
 }
